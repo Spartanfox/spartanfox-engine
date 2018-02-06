@@ -10,9 +10,7 @@
 
 ## The source can be found within:
 
-```
-core\src\com\spartanfox\engine
-```
+https://github.com/Spartanfox/spartanfox-engine/tree/master/core/src/com/spartanfox/engine
 
 ## Compiling the game :
 
